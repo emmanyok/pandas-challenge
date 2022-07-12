@@ -1,1 +1,4 @@
 # pandas-challenge
+From my analysis the top performing schools are Charter Schools whose overall perfomance is aboe 90%. This is backed by the data from the charter schools whose overall performance is above 90% compared to the District schools averaging in the 50 - 60 percent range.
+The District schools tend to have higher student populations, it can be said that this affects student performance. However Charter Schools with high population like Wilson High School with a population of 2,283 still averages a performance of 90.33% from the data set. 
+Based on this it can be assumed that there is more to the factors affecting performance like methods of delivery.
